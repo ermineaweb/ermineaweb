@@ -10,5 +10,9 @@ I am a software developer from France
 <br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Make the Twitch API Speak With Network Graphs (Node.js, React, Mongodb, Vis.js)](https://medium.com/geekculture/make-the-twitch-api-speak-with-network-graphs-node-js-react-mongodb-vis-js-65c50603c44c?source=rss-89cddbc2fcfa------2)
+- [Hooks in practice : system of favorites in localstorage](https://medium.com/swlh/hooks-in-practice-system-of-favorites-in-localstorage-5ecad38e8986?source=rss-89cddbc2fcfa------2)
+- [Utiliser l’Optimistic UI avec React et Apollo GraphQL](https://romainamichaud.medium.com/utiliser-loptimistic-ui-avec-react-et-apollo-graphql-46d9d5dfacd5?source=rss-89cddbc2fcfa------2)
+- [How to Use Optimistic UI in React and Apollo GraphQL](https://medium.com/swlh/how-to-use-optimistic-ui-in-react-and-apollo-graphql-c53f76de360f?source=rss-89cddbc2fcfa------2)
+- [Your first Machine Learning application with Tensorflowjs and React](https://towardsdatascience.com/your-first-machine-learning-application-with-tensorflowjs-and-react-e3f799101674?source=rss-89cddbc2fcfa------2)
 <!-- BLOG-POST-LIST:END -->
